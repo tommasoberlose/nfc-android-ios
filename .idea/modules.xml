@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndefmessagehelper/ndefmessagehelper.iml" filepath="$PROJECT_DIR$/ndefmessagehelper/ndefmessagehelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/nfc-android-ios.iml" filepath="$PROJECT_DIR$/nfc-android-ios.iml" />
     </modules>
   </component>
